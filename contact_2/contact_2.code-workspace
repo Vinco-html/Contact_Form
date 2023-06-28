@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../car/files/files/webfonts"
+		},
+		{
+			"path": "../car/files/files/css"
+		}
+	],
+	"settings": {}
+}
